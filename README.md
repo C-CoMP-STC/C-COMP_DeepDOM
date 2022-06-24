@@ -104,6 +104,12 @@ BCO-DMO Viral and Bacterial Counts Data Table Link: http://dmoserv3.bco-dmo.org/
 
 BCO-DMO Viral and Bacterial Counts Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/528518
 
+## Genomics (16S rRNA gene sequencing, metatranscriptomics, metagenomics\
+
+Data description and summary:
+
+Data can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
+
 
 ## Publications with data from the 2013 DeepDOM cruise
 ### Primary datasets

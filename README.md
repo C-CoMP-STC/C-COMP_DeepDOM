@@ -104,7 +104,7 @@ BCO-DMO Viral and Bacterial Counts Data Table Link: http://dmoserv3.bco-dmo.org/
 
 BCO-DMO Viral and Bacterial Counts Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/528518
 
-## Genomics (16S rRNA gene sequencing, metatranscriptomics, metagenomics\
+## Genomics (16S rRNA gene sequencing, metatranscriptomics, metagenomics
 
 Data description and summary:
 

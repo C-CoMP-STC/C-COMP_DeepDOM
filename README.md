@@ -119,16 +119,17 @@ For your convenience, SRA links to individual samples are provided here: [DeepDO
 Cavaco, M. A., M. P. Bhatia, A. K. Hawley, M. Torres-Beltrán, W. M. Johnson, K. Longnecker, K. Konwar, E. B. Kujawinski and S. J. Hallam (2022). Pathway-centric analysis of microbial metabolic potential and expression along nutrient and energy gradients in the western Atlantic Ocean Front Mar Sci 9. doi: https://www.frontiersin.org/articles/10.3389/fmars.2022.867310/full 
 
 Durkin, C. A., M. L. Estapa and K. O. Buesseler (2015). Observations of carbon export by small sinking particles in the upper mesopelagic. Mar Chem 175: 72-81. doi: https://doi.org/10.1016/j.marchem.2015.02.011
+
 Durkin, C. A., B. A. S. Van Mooy, S. T. Dyhrman and K. O. Buesseler (2016). Sinking phytoplankton associated with carbon flux in the Atlantic Ocean. Limnol Oceanogr 61: 1172-1187. doi: https://doi.org/10.1002/lno.10253
 
 (Eggleston and Hewson 2016): Pelagibacter along a latitudinal transect\
-Eggleston, E. M. and I. Hewson (2016). Abundance of Two Pelagibacter ubique Bacteriophage Genotypes along a Latitudinal Transect in the North and South Atlantic Oceans. Front Microbiol 7.
+Eggleston, E. M. and I. Hewson (2016). Abundance of Two Pelagibacter ubique Bacteriophage Genotypes along a Latitudinal Transect in the North and South Atlantic Oceans. Front Microbiol 7. doi: https://doi.org/10.3389/fmicb.2016.01534
 
 (Hoarfrost and Arnosti 2017): extracellular enzyme activities\
-Hoarfrost, A. and C. Arnosti (2017). Heterotrophic Extracellular Enzymatic Activities in the Atlantic Ocean Follow Patterns Across Spatial and Depth Regimes. Front Mar Sci 4(200). doi: 10.3389/fmicb.2016.01534
+Hoarfrost, A. and C. Arnosti (2017). Heterotrophic Extracellular Enzymatic Activities in the Atlantic Ocean Follow Patterns Across Spatial and Depth Regimes. Front Mar Sci 4(200). doi: [10.3389/fmicb.2016.01534](https://doi.org/10.3389/fmars.2017.00200)
 
 (Holm et al. 2022): Lipids (DeepDOM is one of multiple datasets)\
-Holm, H. C., H. F. Fredricks, S. M. Bent, D. P. Lowenstein, J. E. Ossolinski, K. W. Becker, W. M. Johnson, K. Schrage and B. A. S. V. Mooy (2022). Global ocean lipidomes show a universal relationship between temperature and lipid unsaturation. Science 376(6600): 1487-1491. doi: 10.1126/science.abn7455
+Holm, H. C., H. F. Fredricks, S. M. Bent, D. P. Lowenstein, J. E. Ossolinski, K. W. Becker, W. M. Johnson, K. Schrage and B. A. S. V. Mooy (2022). Global ocean lipidomes show a universal relationship between temperature and lipid unsaturation. Science 376(6600): 1487-1491. doi: DOI: 10.1126/science.abn7455
 
 (Howard et al. 2017): Biological production, export efficiency, and phytoplankton communities\
 Howard, E. M., C. A. Durkin, G. M. M. Hennon, F. Ribalet and R. H. R. Stanley (2017). Biological production, export efficiency, and phytoplankton communities across 8000 km of the South Atlantic. Glob Biogeochem Cycle 31(7): 1066-1088. doi: https://doi.org/10.1002/2016GB005488
@@ -150,7 +151,7 @@ Lohmann, R., E. Markham, J. Klanova, P. Kukucka, P. Pribylova, X. Gong, R. Pocka
 Longnecker, K., L. Oswald, M. C. K. Soule, G. A. Cutter and E. B. Kujawinski (2020). Organic sulfur: a spatially variable and understudied component of marine organic matter. Limnol Oceanogr Lett 5: 305-312. doi: https://doi.org/10.1002/lol2.10149
 
 (Longnecker and Kujawinski 2020): Intracellular metabolites during grazing experiments\
-Longnecker, K. and E. B. Kujawinski (2020). Intracellular metabolites in marine microorganisms during an experiment evaluating microbial mortality. Metabolites 10(3): 105. doi: 10.3390/metabo10030105
+Longnecker, K. and E. B. Kujawinski (2020). Intracellular metabolites in marine microorganisms during an experiment evaluating microbial mortality. Metabolites 10(3): 105. doi: [10.3390/metabo10030105](https://doi.org/10.3390/metabo10030105)
 
 Motta, L. C., J. D. Blum, B. N. Popp, J. C. Drazen and H. G. Close (2020). Mercury stable isotopes in flying fish as a monitor of photochemical degradation of methylmercury in the Atlantic and Pacific Oceans. Mar Chem 223: 103790. doi: https://doi.org/10.1016/j.marchem.2020.103790
 

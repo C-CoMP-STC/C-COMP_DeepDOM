@@ -164,4 +164,5 @@ Rocke, E., M. G. Pachiadaki, A. Cobban, E. B. Kujawinski and V. P. Edgcomb (2015
 - Longnecker, K. and E. B. Kujawinski (2017). Mining mass spectrometry data: Using new computational tools to find novel organic compounds in complex environmental mixtures. Organic Geochemistry 110: 92-99. doi: https://doi.org/10.1016/j.orggeochem.2017.05.008
 - Saw, J. H. W., T. Nunoura, M. Hirai, Y. Takaki, R. Parsons, M. Michelsen, K. Longnecker, E. B. Kujawinski, R. Stepanauskas, Z. Landry, C. A. Carlson and S. J. Giovannoni (2020). Pangenomics analysis reveals diversification of enzyme families and niche specification in globally abundant SAR202 bacteria. mBio 11(1): e02975-02919. doi: 10.1128/mBio.02975-19
 
-
+## Misc fun pieces
+Check out the website that the students and postdocs generated during the cruise: http://deep-dom.blogspot.com/

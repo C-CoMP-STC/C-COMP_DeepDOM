@@ -102,7 +102,7 @@ Data description and summary:
 Data can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
 For your convenience, SRA links to individual samples are provided here: [DeepDOM_NCBI_MGX_MTX.xlsx](https://github.com/lggray22/C-COMP_DeepDOM/files/9048806/DeepDOM_NCBI_MGX_MTX.xlsx) or [DeepDOM_NCBI_MGX_MTX.txt](https://github.com/lggray22/C-COMP_DeepDOM/files/9048808/DeepDOM_NCBI_MGX_MTX.txt)
 
-##Predation and Viral Lysis Experiment: Intracellular Metabolites in Marine Microorganisms during an Experiment Evaluating Microbial Mortality
+## Predation and Viral Lysis Experiment: Intracellular Metabolites in Marine Microorganisms during an Experiment Evaluating Microbial Mortality
 
 Paper:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7142611/ (Longnecker and Kujawinski, 2020). 
 

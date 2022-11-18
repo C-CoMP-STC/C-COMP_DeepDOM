@@ -69,7 +69,7 @@ BCO-DMO DeepDOM Targeted Metabolite Abundances (Particulate) Data Table Link: ht
 
 BCO-DMO DeepDOM Targeted Metabolite Abundances (Particulate) Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/700045
 
-##Mass Spectral Planktonic Lipidomes
+## Mass Spectral Planktonic Lipidomes
 Data Description and summary: Holm et al. 2022 includes 104 (100 samples + 4 blanks) samples collected during the DeepDOM cruise. Lipids were extracted from 0.22 um pore-sized membranes and analyzed using high performance liquid chromotagraphy coupled with electrospray ionization high-resolution accurate-mass spectrometry. See Holm et al. 2022 for more methods and results.
 
 The data are available on MetaboLights using the study number MTBLS2838 (<https://www.ebi.ac.uk/metabolights/MTBLS2838/descriptors>) and DeepDOM samples include the identifier KN210_4 in the second field of the sample names. 

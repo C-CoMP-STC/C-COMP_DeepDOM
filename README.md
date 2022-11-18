@@ -1,5 +1,5 @@
 # C-COMP_DeepDOM
-Repo to host code and information generated on behalf of the Center for Chemical Currencies of a Microbial Planet's DeepDOM Data Integration Project
+The following repo hosts information and code generated on behalf of the Center for Chemical Currencies of a Microbial Planet's DeepDOM Data Integration Project.
 
 Deep Dissolved Organic Matter (DOM) otherwise known as DeepDOM is the name for a cruise (deployment KN210-04, https://www.bco-dmo.org/deployment/59057) that was conducted across the Western Atlantic Ocean (starting at Montevideo, Uruguay and ending at Bridgetown, Barbados) in 2013. 
 
@@ -7,9 +7,9 @@ Deep Dissolved Organic Matter (DOM) otherwise known as DeepDOM is the name for a
 
 
 The science objectives of this cruise included:
-1. Characterizing deep ocean dissolved organic matter in water masses of western Atlantic Ocean.
-2. Characterizing microbial community at selected stations and at selected depths.
-3. Characterizing metabolic capabilities of surface, mesopelagic and bathypelagic microbial consortia vis-a-vis the degradation of organic matter from each zone.
+1. Characterizing deep ocean dissolved organic matter in water masses of the western Atlantic Ocean.
+2. Characterizing microbial community at select sampling stations and depths.
+3. Characterizing metabolic capabilities of surface, mesopelagic, and bathypelagic microbial consortia vis-a-vis the degradation of organic matter from each zone.
 4. Examining metabolic and phylogenetic links between microbes in different marine zones (surface, meso-pelagic and bathypelagic depths).
 
 Seawater samples were collected using the following methods to investigate the science objectives shown above:
@@ -18,11 +18,11 @@ Seawater samples were collected using the following methods to investigate the s
 3. Conducting incubation experiments in lab and on deck.
 4. Conducting mass spectrometry and flow cytometry underway, using the vessel's seawater intake.
 
-The purpose of this wiki is to provide links to all the relevant metadata and data files in one location to aid training, exploration, and integration efforts during the C-CoMP DeepDOM Workshop. Datasets using various methods are presented below:
+The purpose of this README file is to provide links to all the relevant metadata and data files in one location to aid training, exploration, and integration efforts for the the C-CoMP DeepDOM Data Integration exercise. The datasets are presented below:
 
-## Conductivity-Temperature-Depth (CTD)Sensor Casts
+## Conductivity-Temperature-Depth (CTD) Sensor Casts
 
-Data description and summary: This data table contains a record of measurements collected by CTD sensors over the course of the cruise. Header fields include relevant fields like: station #, date, lat, lon, depth, pressure, temperature, salinity, O2 concentrations, density, turbidity, par, spar). 74 discrete casts at 23 separate stations (locations). Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
+Data description and summary: This data table contains a record of measurements collected by CTD sensors over the course of the cruise. Header fields include: station #, date, lat, lon, depth, pressure, temperature, salinity, O2 concentrations, density, turbidity, par, spar. 74 discrete casts were conducted at 23 separate stations. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
 
 CTD Data Table Link: http://dmoserv3.bco-dmo.org/jg/serv/BCO-DMO/Deep_Atlantic_DOM/CTD.html0%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/Deep_Atlantic_DOM/,info=dmoserv3.bco-dmo.org/jg/info/BCO-DMO/Deep_Atlantic_DOM/CTD%7D
 
@@ -36,26 +36,13 @@ Cruise Event Data Table: http://dmoserv3.bco-dmo.org/jg/serv/BCO-DMO/Deep_Atlant
 
 BCO-DMO Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/456062
 
-
 ## DeepDOM Metaproteomes
 
-
-
-
-
-## Intracellular Metabolites in Marine Microorganisms during an Experiment Evaluating Microbial Mortality
-
-Paper:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7142611/ (Longnecker and Kujawinski, 2020). 
-
-Study description (from MetaboLights): This project considers the effects of predation and viral lysis on the metabolites found in the surface ocean. Using seawater from the surface ocean, we experimentally manipulated levels of predation and viral lysis. At the beginning and end of the experiment, we sampled the intracellular and extracellular metabolites. The extracts were analyzed using liquid chromatography-based targeted and untargeted metabolomics methods that we have modified for use with marine samples. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
-
-Sample Data Table on MetaboLights: https://www.ebi.ac.uk/metabolights/MTBLS461/samples
-
-Metadata ('ISA Metadata') and Targeted and Untargeted metabolomics files (raw): https://www.ebi.ac.uk/metabolights/MTBLS461/files
+Data generation is currently underway.
 
 ## Inorganic and organic nutrient data from Niskin bottles
 
-Data description and summary: Inorganic and organic nurient concentrations that were measured in seawater collected from Niskin bottles. Measurements include phosphate, nitrate+nitrite, silicate, nitrite, ammonium, non-purgeable organic carbon, and total nitrogen concentrations. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
+Data description and summary: Inorganic and organic nurient concentrations were measured in seawater collected from Niskin bottles. Measurements include phosphate, nitrate+nitrite, silicate, nitrite, ammonium, non-purgeable organic carbon, and total nitrogen concentrations. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
 
 DeepDOM Nutrient Data Table: [DeepDOM_nutrients.txt](https://github.com/lggray22/C-COMP_DeepDOM/files/8929674/DeepDOM_nutrients.txt)
 
@@ -82,6 +69,11 @@ BCO-DMO DeepDOM Targeted Metabolite Abundances (Particulate) Data Table Link: ht
 
 BCO-DMO DeepDOM Targeted Metabolite Abundances (Particulate) Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/700045
 
+##Mass Spectral Planktonic Lipidomes
+Data Description and summary: Holm et al. 2022 includes 104 (100 samples + 4 blanks) samples collected during the DeepDOM cruise. Lipids were extracted from 0.22 um pore-sized membranes and analyzed using high performance liquid chromotagraphy coupled with electrospray ionization high-resolution accurate-mass spectrometry. See Holm et al. 2022 for more methods and results.
+
+The data are available on MetaboLights using the study number MTBLS2838 (<https://www.ebi.ac.uk/metabolights/MTBLS2838/descriptors>) and DeepDOM samples include the identifier KN210_4 in the second field of the sample names. 
+
 ## Total Organic Sulfur Concentrations 
 
 Data description and summary: This dataset contains the concentration of total organic sulfur in seawater from samples collected during the R/V Knorr cruise KN210-04 between 29 Mar 2013 and 06 May 2013 along the eastern coast of South America. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
@@ -99,19 +91,26 @@ Data description and summary: Viral and bacterial counts from filtered water, st
 
 BCO-DMO Viral and Bacterial Counts Data Table: [DeepDOM_viral_bact_counts.txt](https://github.com/lggray22/C-COMP_DeepDOM/files/8929798/DeepDOM_viral_bact_counts.txt)
 
-
 BCO-DMO Viral and Bacterial Counts Data Table Link: http://dmoserv3.bco-dmo.org/jg/serv/BCO-DMO/Deep_Atlantic_DOM/viral_bact_counts.html0%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/Deep_Atlantic_DOM/,info=dmoserv3.bco-dmo.org/jg/info/BCO-DMO/Deep_Atlantic_DOM/viral_and_bacterial_counts%7D
 
 BCO-DMO Viral and Bacterial Counts Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/528518
 
 ## Genomics (16S rRNA gene sequencing, metatranscriptomics, metagenomics)
 
-Data description and summary:
+Data description and summary: 
 
 Data can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
 For your convenience, SRA links to individual samples are provided here: [DeepDOM_NCBI_MGX_MTX.xlsx](https://github.com/lggray22/C-COMP_DeepDOM/files/9048806/DeepDOM_NCBI_MGX_MTX.xlsx) or [DeepDOM_NCBI_MGX_MTX.txt](https://github.com/lggray22/C-COMP_DeepDOM/files/9048808/DeepDOM_NCBI_MGX_MTX.txt)
 
+##Predation and Viral Lysis Experiment: Intracellular Metabolites in Marine Microorganisms during an Experiment Evaluating Microbial Mortality
 
+Paper:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7142611/ (Longnecker and Kujawinski, 2020). 
+
+Study description (from MetaboLights): This project considers the effects of predation and viral lysis on the metabolites found in the surface ocean. Using seawater from the surface ocean, we experimentally manipulated levels of predation and viral lysis. At the beginning and end of the experiment, we sampled the intracellular and extracellular metabolites. The extracts were analyzed using liquid chromatography-based targeted and untargeted metabolomics methods that we have modified for use with marine samples. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
+
+Sample Data Table on MetaboLights: https://www.ebi.ac.uk/metabolights/MTBLS461/samples
+
+Metadata ('ISA Metadata') and Targeted and Untargeted metabolomics files (raw): https://www.ebi.ac.uk/metabolights/MTBLS461/files
 
 ## Publications with data from the 2013 DeepDOM cruise
 ### Primary datasets

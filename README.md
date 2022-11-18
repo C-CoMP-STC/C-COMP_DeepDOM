@@ -128,7 +128,7 @@ Eggleston, E. M. and I. Hewson (2016). Abundance of Two Pelagibacter ubique Bact
 Hoarfrost, A. and C. Arnosti (2017). Heterotrophic Extracellular Enzymatic Activities in the Atlantic Ocean Follow Patterns Across Spatial and Depth Regimes. Front Mar Sci 4(200). doi: [10.3389/fmicb.2016.01534](https://doi.org/10.3389/fmars.2017.00200)
 
 (Holm et al. 2022): Lipids (DeepDOM is one of multiple datasets)\
-Holm, H. C., H. F. Fredricks, S. M. Bent, D. P. Lowenstein, J. E. Ossolinski, K. W. Becker, W. M. Johnson, K. Schrage and B. A. S. V. Mooy (2022). Global ocean lipidomes show a universal relationship between temperature and lipid unsaturation. Science 376(6600): 1487-1491. doi: DOI: 10.1126/science.abn7455
+Holm, H. C., H. F. Fredricks, S. M. Bent, D. P. Lowenstein, J. E. Ossolinski, K. W. Becker, W. M. Johnson, K. Schrage and B. A. S. V. Mooy (2022). Global ocean lipidomes show a universal relationship between temperature and lipid unsaturation. Science 376(6600): 1487-1491. doi: DOI: https://doi.org/10.1126/science.abn7455
 
 (Howard et al. 2017): Biological production, export efficiency, and phytoplankton communities\
 Howard, E. M., C. A. Durkin, G. M. M. Hennon, F. Ribalet and R. H. R. Stanley (2017). Biological production, export efficiency, and phytoplankton communities across 8000 km of the South Atlantic. Glob Biogeochem Cycle 31(7): 1066-1088. doi: https://doi.org/10.1002/2016GB005488

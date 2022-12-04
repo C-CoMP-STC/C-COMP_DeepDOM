@@ -127,9 +127,6 @@ Eggleston, E. M. and I. Hewson (2016). Abundance of Two Pelagibacter ubique Bact
 (Hoarfrost and Arnosti 2017): extracellular enzyme activities\
 Hoarfrost, A. and C. Arnosti (2017). Heterotrophic Extracellular Enzymatic Activities in the Atlantic Ocean Follow Patterns Across Spatial and Depth Regimes. Front Mar Sci 4(200). doi: [10.3389/fmicb.2016.01534](https://doi.org/10.3389/fmars.2017.00200)
 
-(Holm et al. 2022): Lipids (DeepDOM is one of multiple datasets)\
-Holm, H. C., H. F. Fredricks, S. M. Bent, D. P. Lowenstein, J. E. Ossolinski, K. W. Becker, W. M. Johnson, K. Schrage and B. A. S. V. Mooy (2022). Global ocean lipidomes show a universal relationship between temperature and lipid unsaturation. Science 376(6600): 1487-1491. doi: DOI: https://doi.org/10.1126/science.abn7455
-
 (Howard et al. 2017): Biological production, export efficiency, and phytoplankton communities\
 Howard, E. M., C. A. Durkin, G. M. M. Hennon, F. Ribalet and R. H. R. Stanley (2017). Biological production, export efficiency, and phytoplankton communities across 8000 km of the South Atlantic. Glob Biogeochem Cycle 31(7): 1066-1088. doi: https://doi.org/10.1002/2016GB005488
 
@@ -157,6 +154,7 @@ Motta, L. C., J. D. Blum, B. N. Popp, J. C. Drazen and H. G. Close (2020). Mercu
 Rocke, E., M. G. Pachiadaki, A. Cobban, E. B. Kujawinski and V. P. Edgcomb (2015). Protist community grazing on prokaryotic prey in deep ocean water masses. PLoS One 10(4): e0124505. doi: https://doi.org/10.1371/journal.pone.0124505
 
 ### Additional publications using a portion of DeepDOM data
+- Holm, H. C., H. F. Fredricks, S. M. Bent, D. P. Lowenstein, J. E. Ossolinski, K. W. Becker, W. M. Johnson, K. Schrage and B. A. S. V. Mooy (2022). Global ocean lipidomes show a universal relationship between temperature and lipid unsaturation. Science 376(6600): 1487-1491. doi: DOI: https://doi.org/10.1126/science.abn7455
 - Kido Soule, M. C., K. Longnecker, W. M. Johnson and E. B. Kujawinski (2015). Environmental metabolomics: analytical strategies. Mar Chem 177, Part 2: 374-387.doi: https://doi.org/10.1016/j.marchem.2015.06.029
 - Kujawinski, E. B., K. Longnecker, H. Alexander, S. T. Dyhrman, C. L. Fiore, S. T. Haley and W. M. Johnson (2017). Phosphorus availability regulates intracellular nucleotide pools in marine eukaryotic phytoplankton. Limnol Oceanogr Lett 2: 119-129. doi: https://doi.org/10.1002/lol2.10043
 - Longnecker, K., J. Futrelle, E. Coburn, M. C. Kido Soule and E. B. Kujawinski (2015). Environmental metabolomics: databases and tools for data analysis. Mar Chem 177, Part 2: 366-373. doi: https://doi.org/10.1016/j.marchem.2015.06.012

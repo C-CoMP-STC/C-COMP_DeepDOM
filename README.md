@@ -114,39 +114,30 @@ Metadata ('ISA Metadata') and Targeted and Untargeted metabolomics files (raw): 
 
 ## Publications with data from the 2013 DeepDOM cruise
 ### Primary datasets
-(Cavaco et al. 2022): 16S rRNA gene sequencing, metatranscriptomics, and metagenomics\
 Cavaco, M. A., M. P. Bhatia, A. K. Hawley, M. Torres-Beltrán, W. M. Johnson, K. Longnecker, K. Konwar, E. B. Kujawinski and S. J. Hallam (2022). Pathway-centric analysis of microbial metabolic potential and expression along nutrient and energy gradients in the western Atlantic Ocean Front Mar Sci 9. doi: https://www.frontiersin.org/articles/10.3389/fmars.2022.867310/full 
 
 Durkin, C. A., M. L. Estapa and K. O. Buesseler (2015). Observations of carbon export by small sinking particles in the upper mesopelagic. Mar Chem 175: 72-81. doi: https://doi.org/10.1016/j.marchem.2015.02.011
 
 Durkin, C. A., B. A. S. Van Mooy, S. T. Dyhrman and K. O. Buesseler (2016). Sinking phytoplankton associated with carbon flux in the Atlantic Ocean. Limnol Oceanogr 61: 1172-1187. doi: https://doi.org/10.1002/lno.10253
 
-(Eggleston and Hewson 2016): Pelagibacter along a latitudinal transect\
 Eggleston, E. M. and I. Hewson (2016). Abundance of Two Pelagibacter ubique Bacteriophage Genotypes along a Latitudinal Transect in the North and South Atlantic Oceans. Front Microbiol 7. doi: https://doi.org/10.3389/fmicb.2016.01534
 
-(Hoarfrost and Arnosti 2017): extracellular enzyme activities\
 Hoarfrost, A. and C. Arnosti (2017). Heterotrophic Extracellular Enzymatic Activities in the Atlantic Ocean Follow Patterns Across Spatial and Depth Regimes. Front Mar Sci 4(200). doi: [10.3389/fmicb.2016.01534](https://doi.org/10.3389/fmars.2017.00200)
 
-(Howard et al. 2017): Biological production, export efficiency, and phytoplankton communities\
 Howard, E. M., C. A. Durkin, G. M. M. Hennon, F. Ribalet and R. H. R. Stanley (2017). Biological production, export efficiency, and phytoplankton communities across 8000 km of the South Atlantic. Glob Biogeochem Cycle 31(7): 1066-1088. doi: https://doi.org/10.1002/2016GB005488
 
 Hurley, S. J., F. J. Elling, M. Könneke, C. Buchwald, S. D. Wankel, A. E. Santoro, J. S. Lipp, K.-U. Hinrichs and A. Pearson (2016). Influence of ammonia oxidation rate on thaumarchaeal lipid composition and the TEX86 temperature proxy. Proc Natl Acad Sci USA 113(28): 7762-7767. doi: https://doi.org/10.1073/pnas.151853411
 
 Hurley, S. J., J. S. Lipp, H. G. Close, K.-U. Hinrichs and A. Pearson (2018). Distribution and export of isoprenoid tetraether lipids in suspended particulate matter from the water column of the Western Atlantic Ocean. Organic Geochemistry 116: 90-102. doi: https://doi.org/10.1016/j.orggeochem.2017.11.010
 
-(Johnson et al. 2020): metabolites on particles \
 Johnson, W. M., K. Longnecker, M. C. Kido Soule, W. A. Arnold, M. P. Bhatia, S. J. Hallam, B. A. S. Van Mooy and E. B. Kujawinski (2020). Metabolite composition of sinking particles differs from surface suspended particles across a latitudinal transect in the South Atlantic. Limnol Oceanogr 65: 111-127. doi: https://doi.org/10.1002/lno.11255
 
-(Johnson et al. accepted 2022): Dissolved, known, metabolites\
 Johnson, W. M., M. C. Kido Soule, K. Longnecker, M. P. Bhatia, S. J. Hallam, M. W. Lomas and E. B. Kujawinski (accepted). Particulate and dissolved metabolite distributions along a latitudinal transect of the western Atlantic Ocean. Limnology and Oceanography doi: https://doi.org/10.1002/lno.12275
 
-(Lohmann et al. 2021): particulate organic pollutants\
 Lohmann, R., E. Markham, J. Klanova, P. Kukucka, P. Pribylova, X. Gong, R. Pockalny, T. Yanishevsky, C. C. Wagner and E. M. Sunderland (2021). Trends of Diverse POPs in Air and Water Across the Western Atlantic Ocean: Strong Gradients in the Ocean but Not in the Air. Environ Sci Technol 55(14): 9498-9507. doi: https://doi.org/10.1021/acs.est.0c04611
 
-(Longnecker et al. 2020): Organic sulfur concentrations and direct infusion mass spectrometry data\
 Longnecker, K., L. Oswald, M. C. K. Soule, G. A. Cutter and E. B. Kujawinski (2020). Organic sulfur: a spatially variable and understudied component of marine organic matter. Limnol Oceanogr Lett 5: 305-312. doi: https://doi.org/10.1002/lol2.10149
 
-(Longnecker and Kujawinski 2020): Intracellular metabolites during grazing experiments\
 Longnecker, K. and E. B. Kujawinski (2020). Intracellular metabolites in marine microorganisms during an experiment evaluating microbial mortality. Metabolites 10(3): 105. doi: [10.3390/metabo10030105](https://doi.org/10.3390/metabo10030105)
 
 Motta, L. C., J. D. Blum, B. N. Popp, J. C. Drazen and H. G. Close (2020). Mercury stable isotopes in flying fish as a monitor of photochemical degradation of methylmercury in the Atlantic and Pacific Oceans. Mar Chem 223: 103790. doi: https://doi.org/10.1016/j.marchem.2020.103790

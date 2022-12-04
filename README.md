@@ -140,8 +140,8 @@ Hurley, S. J., J. S. Lipp, H. G. Close, K.-U. Hinrichs and A. Pearson (2018). Di
 (Johnson et al. 2020): metabolites on particles \
 Johnson, W. M., K. Longnecker, M. C. Kido Soule, W. A. Arnold, M. P. Bhatia, S. J. Hallam, B. A. S. Van Mooy and E. B. Kujawinski (2020). Metabolite composition of sinking particles differs from surface suspended particles across a latitudinal transect in the South Atlantic. Limnol Oceanogr 65: 111-127. doi: https://doi.org/10.1002/lno.11255
 
-(Johnson et al. in revision): Dissolved, known, metabolites\
-Johnson, W. M., M. C. Kido Soule, K. Longnecker, M. P. Bhatia, S. J. Hallam, M. W. Lomas and E. B. Kujawinski (in revision). Insights into the controls on metabolite distributions along a latitudinal transect of the western Atlantic Ocean. Limnology and Oceanography 
+(Johnson et al. accepted 2022): Dissolved, known, metabolites\
+Johnson, W. M., M. C. Kido Soule, K. Longnecker, M. P. Bhatia, S. J. Hallam, M. W. Lomas and E. B. Kujawinski (accepted). Particulate and dissolved metabolite distributions along a latitudinal transect of the western Atlantic Ocean. Limnology and Oceanography doi: https://doi.org/10.1002/lno.12275
 
 (Lohmann et al. 2021): particulate organic pollutants\
 Lohmann, R., E. Markham, J. Klanova, P. Kukucka, P. Pribylova, X. Gong, R. Pockalny, T. Yanishevsky, C. C. Wagner and E. M. Sunderland (2021). Trends of Diverse POPs in Air and Water Across the Western Atlantic Ocean: Strong Gradients in the Ocean but Not in the Air. Environ Sci Technol 55(14): 9498-9507. doi: https://doi.org/10.1021/acs.est.0c04611

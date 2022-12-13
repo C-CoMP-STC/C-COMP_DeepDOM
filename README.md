@@ -1,10 +1,9 @@
 # C-COMP_DeepDOM
 The following repo hosts information and code generated on behalf of the Center for Chemical Currencies of a Microbial Planet's DeepDOM Data Integration Project.
 
-Deep Dissolved Organic Matter (DOM) otherwise known as DeepDOM is the name for a cruise (deployment KN210-04, https://www.bco-dmo.org/deployment/59057) that was conducted across the Western Atlantic Ocean (starting at Montevideo, Uruguay and ending at Bridgetown, Barbados) in 2013. 
+Deep Dissolved Organic Matter (DOM) otherwise known as DeepDOM is the name for a cruise (deployment KN210-04, https://www.bco-dmo.org/deployment/59057) that was conducted across the Western Atlantic Ocean (starting at Montevideo, Uruguay and ending at Bridgetown, Barbados) in 2013. Here is the cruise report for the DeepDOM cruise: [KN210-04 cruise report.pdf](https://github.com/C-CoMP-STC/C-COMP_DeepDOM/files/10220341/KN210-04.cruise.report.pdf)
 
 <img width="1023" alt="Screen Shot 2022-06-21 at 11 26 11 AM" src="https://user-images.githubusercontent.com/107074556/174838020-4a23bbe6-2144-4bbe-9b5e-a294f810197f.png">
-
 
 The science objectives of this cruise included:
 1. Characterizing deep ocean dissolved organic matter in water masses of the western Atlantic Ocean.

@@ -37,7 +37,7 @@ BCO-DMO Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/456062
 
 ## DeepDOM Metaproteomes
 
-Data generation is currently underway.
+Data generation is currently underway. Lead PI: Mak Saito, Woods Hole Oceanographic Insitution
 
 ## Inorganic and organic nutrient data from Niskin bottles
 
@@ -70,12 +70,12 @@ BCO-DMO DeepDOM Targeted Metabolite Abundances (Particulate) Dataset Landing Pag
 
 ## Untargeted Metabolomics (Dissolved)
 
-Data description and summary: This dataset includes 25 samples collected from various depths across 4 stations (2,7,15,23) that were measured using untargeted metabolomics in negative ionization mode using 7 T FT-ICR mass spectrometer (both direct infusion and liquid chromatography in some cases). See Longnecker et al. 2020 (doi: https://doi.org/10.1002/lol2.10149) for more information.
+Data description and summary: This dataset includes 25 samples collected from various depths across 4 stations (2,7,15,23) that were measured using untargeted metabolomics in negative ionization mode using 7 T FT-ICR mass spectrometer (both direct infusion and liquid chromatography in some cases). See Longnecker et al. 2020 (doi: https://doi.org/10.1002/lol2.10149) for more information. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
 
 The data are available on MetaboLights using the study number MTBLS1024 (<https://www.ebi.ac.uk/metabolights/MTBLS1024/files>). 
 
 ## Mass Spectral Planktonic Lipidomes
-Data Description and summary: Holm et al. 2022 includes 104 (100 samples + 4 blanks) samples collected during the DeepDOM cruise. Lipids were extracted from 0.22 um pore-sized membranes and analyzed using high performance liquid chromotagraphy coupled with electrospray ionization high-resolution accurate-mass spectrometry. See Holm et al. 2022 for more methods and results.
+Data Description and summary: Holm et al. 2022 includes 104 (100 samples + 4 blanks) samples collected during the DeepDOM cruise. Lipids were extracted from 0.22 um pore-sized membranes and analyzed using high performance liquid chromotagraphy coupled with electrospray ionization high-resolution accurate-mass spectrometry. See Holm et al. 2022 for more methods and results. Lead PI: Benjamin Van Mooy, Woods Hole Oceanographic Institution
 
 The data are available on MetaboLights using the study number MTBLS2838 (<https://www.ebi.ac.uk/metabolights/MTBLS2838/descriptors>) and DeepDOM samples include the identifier KN210_4 in the second field of the sample names. 
 
@@ -104,11 +104,11 @@ BCO-DMO Viral and Bacterial Counts Dataset Landing Page: https://www.bco-dmo.org
 
 ### Microbial Community Metatranscriptomes
 
-Data description and summary: This dataset includes 91 metatranscriptomes collected at 7 intermediate and 4 mega DeepDOM stations at discrete sampling depths. Seawater was pre-filtered with 2.7 um GF/D filters and biomass was collected in 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include the DeepDOM station number, sampling depth (250) or water mass (DCM), filter replicate (either A or B), and the analysis type (metaT). 
+Data description and summary: This dataset includes 91 metatranscriptomes collected at 7 intermediate and 4 mega DeepDOM stations at discrete sampling depths. Seawater was pre-filtered with 2.7 um GF/D filters and biomass was collected in 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include the DeepDOM station number, sampling depth (250) or water mass (DCM), filter replicate (either A or B), and the analysis type (metaT). Lead PI: Steven Hallam, Univeristy of British Columbia
 
 ### Microbial Community Metagenomes
 
-Data description and summary: This dataset includes 20 metagenomes collected at 3 mega stations at discrete sampling depths. Seawater was pre-filtered with 2.7 um GF/D filters and biomass was collected in 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include DeepDOM station number, water mass (e.g. NADW), sampling depth in meters (750m), and filter replicate (either A or B)
+Data description and summary: This dataset includes 20 metagenomes collected at 3 mega stations at discrete sampling depths. Seawater was pre-filtered with 2.7 um GF/D filters and biomass was collected in 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include DeepDOM station number, water mass (e.g. NADW), sampling depth in meters (750m), and filter replicate (either A or B). Lead PI: Steven Hallam, Univeristy of British Columbia
 
 Both metatranscriptomes and metagenomes can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
 For your convenience, SRA links to individual samples are provided here: [DeepDOM_NCBI_MGX_MTX.xlsx](https://github.com/lggray22/C-COMP_DeepDOM/files/9048806/DeepDOM_NCBI_MGX_MTX.xlsx) or [DeepDOM_NCBI_MGX_MTX.txt](https://github.com/lggray22/C-COMP_DeepDOM/files/9048808/DeepDOM_NCBI_MGX_MTX.txt)

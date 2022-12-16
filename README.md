@@ -107,6 +107,12 @@ Data description and summary:
 Data can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
 For your convenience, SRA links to individual samples are provided here: [DeepDOM_NCBI_MGX_MTX.xlsx](https://github.com/lggray22/C-COMP_DeepDOM/files/9048806/DeepDOM_NCBI_MGX_MTX.xlsx) or [DeepDOM_NCBI_MGX_MTX.txt](https://github.com/lggray22/C-COMP_DeepDOM/files/9048808/DeepDOM_NCBI_MGX_MTX.txt)
 
+## Eukaryotic metatranscriptomics
+
+Data description and summary: This dataset includes 12 polyA selected eukaryotic metatranscriptomes (2 samples from the 5 um size fraction; 10 from the 0.2 um size fraction) sequenced from surface seawater at 10 of the DeepDOM intermediate and mega stations. This dataset also includes 3 trap samples from various stations. Lead PI: Sonya Dyhrman, Columbia University
+
+Raw files and other associated files can be accessed and downloaded in the Joint Genome Institute (JGI) Genome Portal (https://genome.jgi.doe.gov/portal/) by searching using the key word deepdom. For your convenience, direct links to each sample (and associated files) are provided here [DeepDOM_EukmetaT_surface.xlsx](https://github.com/C-CoMP-STC/C-COMP_DeepDOM/files/10248446/DeepDOM_EukmetaT_surface.xlsx) under the JGI_project_link column header.
+
 ## Predation and Viral Lysis Experiment: Intracellular Metabolites in Marine Microorganisms during an Experiment Evaluating Microbial Mortality
 
 Paper:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7142611/ (Longnecker and Kujawinski, 2020). 

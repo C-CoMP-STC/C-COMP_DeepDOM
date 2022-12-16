@@ -100,14 +100,20 @@ BCO-DMO Viral and Bacterial Counts Data Table Link: http://dmoserv3.bco-dmo.org/
 
 BCO-DMO Viral and Bacterial Counts Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/528518
 
-## Genomics (16S rRNA gene sequencing, metatranscriptomics, metagenomics)
+## Genomics
 
-Data description and summary: 
+### Microbial Community Metatranscriptomes
 
-Data can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
+Data description and summary: This dataset includes 91 metatranscriptomes collected at 7 intermediate and 4 mega DeepDOM stations at discrete sampling depths. Seawater was pre-filtered with 2.7 um GF/D filters and biomass was collected in 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include the DeepDOM station number, sampling depth (250) or water mass (DCM), filter replicate (either A or B), and the analysis type (metaT). 
+
+### Microbial Community Metagenomes
+
+Data description and summary: This dataset includes 20 metagenomes collected at 3 mega stations at discrete sampling depths. Seawater was pre-filtered with 2.7 um GF/D filters and biomass was collected in 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include DeepDOM station number, water mass (e.g. NADW), sampling depth in meters (750m), and filter replicate (either A or B)
+
+Both metatranscriptomes and metagenomes can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
 For your convenience, SRA links to individual samples are provided here: [DeepDOM_NCBI_MGX_MTX.xlsx](https://github.com/lggray22/C-COMP_DeepDOM/files/9048806/DeepDOM_NCBI_MGX_MTX.xlsx) or [DeepDOM_NCBI_MGX_MTX.txt](https://github.com/lggray22/C-COMP_DeepDOM/files/9048808/DeepDOM_NCBI_MGX_MTX.txt)
 
-## Eukaryotic metatranscriptomics
+## Eukaryotic metatranscriptomes
 
 Data description and summary: This dataset includes 12 polyA selected eukaryotic metatranscriptomes (2 samples from the 5 um size fraction; 10 from the 0.2 um size fraction) sequenced from surface seawater at 10 of the DeepDOM intermediate and mega stations. This dataset also includes 3 trap samples from various stations. Lead PI: Sonya Dyhrman, Columbia University
 

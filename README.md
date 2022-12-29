@@ -143,9 +143,9 @@ Hoarfrost, A. and C. Arnosti (2017). Heterotrophic Extracellular Enzymatic Activ
 
 Howard, E. M., C. A. Durkin, G. M. M. Hennon, F. Ribalet and R. H. R. Stanley (2017). Biological production, export efficiency, and phytoplankton communities across 8000 km of the South Atlantic. Glob Biogeochem Cycle 31(7): 1066-1088. doi: https://doi.org/10.1002/2016GB005488
 
-Hurley, S. J., F. J. Elling, M. Könneke, C. Buchwald, S. D. Wankel, A. E. Santoro, J. S. Lipp, K.-U. Hinrichs and A. Pearson (2016). Influence of ammonia oxidation rate on thaumarchaeal lipid composition and the TEX86 temperature proxy. Proc Natl Acad Sci USA 113(28): 7762-7767. doi: https://doi.org/10.1073/pnas.151853411
+Hurley, S. J., F. J. Elling, M. Könneke, C. Buchwald, S. D. Wankel, A. E. Santoro, J. S. Lipp, K.-U. Hinrichs and A. Pearson (2016). Influence of ammonia oxidation rate on thaumarchaeal lipid composition and the TEX86 temperature proxy. Proc Natl Acad Sci USA 113(28): 7762-7767. doi: [https://doi.org/10.1073/pnas.151853411](https://doi.org/10.1073/pnas.1518534113)
 
-Hurley, S. J., J. S. Lipp, H. G. Close, K.-U. Hinrichs and A. Pearson (2018). Distribution and export of isoprenoid tetraether lipids in suspended particulate matter from the water column of the Western Atlantic Ocean. Organic Geochemistry 116: 90-102. doi: https://doi.org/10.1073/pnas.1518534113
+Hurley, S. J., J. S. Lipp, H. G. Close, K.-U. Hinrichs and A. Pearson (2018). Distribution and export of isoprenoid tetraether lipids in suspended particulate matter from the water column of the Western Atlantic Ocean. Organic Geochemistry 116: 90-102. doi: https://doi.org/10.1016/j.orggeochem.2017.11.010
 
 Johnson, W. M., K. Longnecker, M. C. Kido Soule, W. A. Arnold, M. P. Bhatia, S. J. Hallam, B. A. S. Van Mooy and E. B. Kujawinski (2020). Metabolite composition of sinking particles differs from surface suspended particles across a latitudinal transect in the South Atlantic. Limnol Oceanogr 65: 111-127. doi: https://doi.org/10.1002/lno.11255
 

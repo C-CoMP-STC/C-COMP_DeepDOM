@@ -104,14 +104,20 @@ BCO-DMO Viral and Bacterial Counts Dataset Landing Page: https://www.bco-dmo.org
 
 ### Microbial Community Metatranscriptomes
 
-Data description and summary: This dataset includes 91 metatranscriptomes collected at 7 intermediate and 4 mega DeepDOM stations at discrete sampling depths. Seawater was pre-filtered with 2.7 um GF/D filters and biomass was collected in 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include the DeepDOM station number, sampling depth (250) or water mass (DCM), filter replicate (either A or B), and the analysis type (metaT). Lead PI: Steven Hallam, Univeristy of British Columbia
+Data description and summary: This dataset includes 91 metatranscriptomes collected at 7 intermediate and 4 mega DeepDOM stations at discrete sampling depths. Seawater samples (8 L volume) were pre-filtered with 2.7 um GF/D filters and biomass was collected from 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include the DeepDOM station number, sampling depth (250) or water mass (DCM), filter replicate (either A or B), and the analysis type (metaT). Lead PI: Steven Hallam, Univeristy of British Columbia
 
 ### Microbial Community Metagenomes
 
-Data description and summary: This dataset includes 20 metagenomes collected at 3 mega stations at discrete sampling depths. Seawater was pre-filtered with 2.7 um GF/D filters and biomass was collected in 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include DeepDOM station number, water mass (e.g. NADW), sampling depth in meters (750m), and filter replicate (either A or B). Lead PI: Steven Hallam, Univeristy of British Columbia
+Data description and summary: This dataset includes 20 metagenomes collected at 3 mega stations at discrete sampling depths. Seawater samples (20 L volume) were pre-filtered with 2.7 um GF/D filters and biomass was collected from 0.2 um PVDF sterivex filters (see Cavaco et al. 2022 and the cruise report for methods). File names include DeepDOM station number, water mass (e.g. NADW), sampling depth in meters (750m), and filter replicate (either A or B). Lead PI: Steven Hallam, Univeristy of British Columbia
 
-Both metatranscriptomes and metagenomes can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
-For your convenience, SRA links to individual samples are provided here: [DeepDOM_NCBI_MGX_MTX.xlsx](https://github.com/lggray22/C-COMP_DeepDOM/files/9048806/DeepDOM_NCBI_MGX_MTX.xlsx) or [DeepDOM_NCBI_MGX_MTX.txt](https://github.com/lggray22/C-COMP_DeepDOM/files/9048808/DeepDOM_NCBI_MGX_MTX.txt)
+### Microbial Community Amplicons (16S rRNA gene sequences)
+
+Data description and summary: This dataset includes 184 16S rRNA gene amplicon sequencing samples that were processed using the Joint Genome Institute's (JGI) iTagger pipeline v2.0 (https://jgi.doe.gov/wp-content/uploads/2016/06/DOE-JGI-iTagger-methods.pdf). Seawater samples (2 L volume) were filtered with 0.2 um PVDF Sterivex filters (no pre-filtering, see Cavaco et al. 2022 and the cruise report for methods). File names include DeepDOM station number followed by either sampling depth (e.g. 250 meters) or water mass (e.g. AAIW). 
+
+Metatranscriptomes, metagenomes, and amplicon (16S rRNA gene sequencing) samples can be accessed under the NCBI Umbrella BioProject PRJNA805279: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA805279
+
+For your convenience, BioProject accession numbers, datastream, file identifiers (inferred from the 'Title' field published on NCBI), and SRA links to individual samples are provided in this spreadsheet: 
+[DeepDOM_NCBI_MGX_MTX_Amplicon.xlsx](https://github.com/C-CoMP-STC/C-COMP_DeepDOM/files/10346080/DeepDOM_NCBI_MGX_MTX_Amplicon.xlsx)
 
 ## Eukaryotic metatranscriptomes
 

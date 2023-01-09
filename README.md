@@ -37,7 +37,9 @@ BCO-DMO Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/456062
 
 ## DeepDOM Metaproteomes
 
-Data generation is currently underway. Lead PI: Mak Saito, Woods Hole Oceanographic Insitution
+Data description and summary: This dataset includes 20 microbial metaproteomes from DeepDOM Station 2 that were collected at 10 depths. Samples were collected by McLane Pump and filtered onto GFF as well as GF75 glass filters and frozen at -80C until analysis (one GFF and one GF75 filter per depth). See the PRIDE project webpage (https://www.ebi.ac.uk/pride/archive/projects/PXD034035) and BCO-DMO dataset (https://www.bco-dmo.org/dataset/875622) for more method details. File name identifiers include DeepDOM station (st2), size fraction (GFF or GF75), and depth (e.g. 507 meters). Lead PI: Mak Saito, Woods Hole Oceanographic Insitution
+
+Processed data is underway, but raw data is available at PRIDE under the accession number: PXD034035 and is linked at BCO-DMO. The PRIDE FTP download page is here: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2022/05/PXD034035
 
 ## Inorganic and organic nutrient data from Niskin bottles
 

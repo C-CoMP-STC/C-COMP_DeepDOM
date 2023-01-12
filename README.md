@@ -37,7 +37,7 @@ BCO-DMO Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/456062
 
 ## DeepDOM Metaproteomes
 
-Data description and summary: This dataset includes 20 microbial metaproteomes from DeepDOM Station 2 that were collected at 10 depths. Samples were collected by McLane Pump and filtered onto GFF as well as GF75 glass filters and frozen at -80C until analysis (one GFF and one GF75 filter per depth). See the PRIDE project webpage (https://www.ebi.ac.uk/pride/archive/projects/PXD034035) and BCO-DMO dataset (https://www.bco-dmo.org/dataset/875622) for more method details. File name identifiers include DeepDOM station (st2), size fraction (GFF or GF75), and depth (e.g. 507 meters). Lead PI: Mak Saito, Woods Hole Oceanographic Insitution
+Data description and summary: This dataset includes 20 microbial metaproteomes from DeepDOM Station 2 that were collected at 10 depths. Samples were collected by McLane Pump and filtered onto GFF as well as GF75 glass filters and frozen at -80C until analysis (one GFF and one GF75 filter per depth). See the PRIDE project webpage (https://www.ebi.ac.uk/pride/archive/projects/PXD034035) and BCO-DMO dataset (https://www.bco-dmo.org/dataset/875622) for more method details. File name identifiers include DeepDOM station (st2), size fraction (GFF or GF75), and depth (e.g. 507 meters). Lead PI: Mak Saito, Woods Hole Oceanographic Institution
 
 Processed data is underway, but raw data is available at PRIDE under the accession number: PXD034035 and is linked at BCO-DMO. The PRIDE FTP download page is here: ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2022/05/PXD034035
 
@@ -59,6 +59,8 @@ BCO-DMO DeepDOM Targeted Metabolite Abundances (Dissolved) Data Table Link: http
 
 BCO-DMO DeepDOM Targeted Metabolite Abundances (Dissolved) Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/700032
 
+Raw files are available at the MetaboLights repository under study MTBLS1752: https://www.ebi.ac.uk/metabolights/MTBLS1752/files and are indicated with the key word 'exometabolome'
+
 ## Targeted Metabolite Abundances (Particulate)
 
 Data description and summary: This dataset contains particulate metabolite abundances from seawater samples collected during the R/V Knorr cruise KN210-04 between 29 Mar 2013 and 06 May 2013 along the eastern coast of South America. Sample depth, lat, lon, station, time, and cast are from CTD profiles are also included in this dataset. Some of these data are published Kujawinski et al., 2017. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
@@ -69,6 +71,8 @@ DeepDOM Targeted Metabolite Abundances (Particulate) Data Table:
 BCO-DMO DeepDOM Targeted Metabolite Abundances (Particulate) Data Table Link: http://dmoserv3.bco-dmo.org/jg/serv/BCO-DMO/Deep_Atlantic_DOM/metabolites_particulate.html0%7Bdir=dmoserv3.whoi.edu/jg/dir/BCO-DMO/Deep_Atlantic_DOM/,info=dmoserv3.bco-dmo.org/jg/info/BCO-DMO/Deep_Atlantic_DOM/metabolites_particulate%7D
 
 BCO-DMO DeepDOM Targeted Metabolite Abundances (Particulate) Dataset Landing Page: https://www.bco-dmo.org/dataset-deployment/700045
+
+Raw files are available at the MetaboLights repository under study MTBLS1752: https://www.ebi.ac.uk/metabolights/MTBLS1752/files and are indicated with the key word 'endometabolome'
 
 ## Untargeted Metabolomics (Dissolved)
 

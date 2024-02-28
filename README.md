@@ -78,7 +78,7 @@ Raw files are available at the MetaboLights repository under study MTBLS1752: ht
 
 Data description and summary: This dataset includes 25 samples collected from various depths across 4 stations (2,7,15,23) that were measured using untargeted metabolomics in negative ionization mode using 7 T FT-ICR mass spectrometer (both direct infusion and liquid chromatography in some cases). See Longnecker et al. 2020 (doi: https://doi.org/10.1002/lol2.10149) for more information. Lead PI: Liz Kujawinski, Co-PI: Krista Longnecker
 
-The data are available on MetaboLights using the study number MTBLS1024 (<https://www.ebi.ac.uk/metabolights/MTBLS1024/files>). 
+The data are available on MetaboLights using the study numbers MTBLS1024 (<https://www.ebi.ac.uk/metabolights/MTBLS1024/files>) and MTBLS6735 (<https://www.ebi.ac.uk/metabolights/MTBLS6735/files>).
 
 ## Mass Spectral Planktonic Lipidomes
 Data Description and summary: Holm et al. 2022 includes 104 (100 samples + 4 blanks) samples collected during the DeepDOM cruise. Lipids were extracted from 0.22 um pore-sized membranes and analyzed using high performance liquid chromotagraphy coupled with electrospray ionization high-resolution accurate-mass spectrometry. See Holm et al. 2022 for more methods and results. Lead PI: Benjamin Van Mooy, Woods Hole Oceanographic Institution
